@@ -10,6 +10,7 @@
 </details>
 
 ![Alt Text](https://github.com/lexie21/loandefaulter/blob/main/employment_status.png)
+![Alt Text](https://github.com/lexie21/loandefaulter/blob/main/masterisk.png)
 ![Alt Text](https://github.com/lexie21/loandefaulter/blob/main/house_type.png)
 
 
