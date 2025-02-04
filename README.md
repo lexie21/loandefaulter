@@ -14,7 +14,6 @@
 ![Alt Text](https://github.com/lexie21/loandefaulter/blob/main/house_type.png)
 
 ![Alt Text](https://github.com/lexie21/loandefaulter/blob/main/ML_curves.png)
-![Alt Text](https://github.com/lexie21/loandefaulter/blob/main/lift_curve.png)
 ![Alt Text](https://github.com/lexie21/loandefaulter/blob/main/DL_curve.png)
 
 <h3>Metrics and Dimensions</h3>
