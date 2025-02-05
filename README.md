@@ -48,9 +48,14 @@
 
 <h4>Overall Stats:</h4>
 
-|Year | Application Month | #Defaults | Sum Default Amount | Sum Loan Amount | Default Ratio | Average Default Amount| Max Amount|
+|Year | Month | #Defaults | Sum Default Amount | Sum Loan Amount | Default Ratio | Average Default Amount| Max Amount|
 |------------|----------|--------|--------|--------|--------|--------|--------|
-|   2020     | 10 | 0.807  |0.807  |0.807  |0.807  |0.807  |0.807  | 
+|   2020     | 10 | 530  |604400  |2706000  |0.212  |1170.377  | 3000 |
+|   2020     | 11 | 276  |378200  |1650900  |0.192  |1370.290  | 3000 |
+|   2020     | 12 | 459  |595900  |2321500  |0.233  | 1298.257 | 3000 |
+|   2021     | 1 | 457  |493300  |1943300  |0.243  |1079.431  | 3000 |
+|   2021     | 2 | 415  |523400  |1984200  |0.250  |1261.205  | 3000 |
+|   2021     | 3 | 114  |132400  |541700  |0.233  |1161.404  | 3000 |
 
 
 This table provides valuable insights into the bank's performance. On average, the bank approves over 1,800 to 1,900 loans per month, with October 2020 seeing a significant spike, doubling the usual amount. The default ratio remains consistent at 20% of all loans, with the average amount per default case exceeding 1,000. Overall, defaults account for about 22-25% of the entire loan portfolio, and 2021 experienced much higher losses compared to the previous year.
