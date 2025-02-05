@@ -42,9 +42,9 @@
 <h3>Metrics and Dimensions</h3>
 
 - **Average default amount:** average loss incurred from each default
-- ** Default ratio:** proportion of default cases out of all loans
+- **Default ratio:** proportion of default cases out of all loans
 - **Employment status:** 12 types in total
-- ** House type:** shared usage, private-only, regular, company-olny and unknown
+- **House type:** shared usage, private-only, regular, company-olny and unknown
 
 ![Alt Text](https://github.com/lexie21/loandefaulter/blob/main/employment_status.png)
 ![Alt Text](https://github.com/lexie21/loandefaulter/blob/main/masterisk.png)
