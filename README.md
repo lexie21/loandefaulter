@@ -50,6 +50,12 @@
 <h3>Recommendations & Next Steps</h3>
 
 ## Modeling
+
+| Model | AUC | AP |
+|------------|----------|--------|
+| Random Forest       | 0.880 | 0.807  | 
+| Gradient Boosting       | 0.866    | 0.706   | 
+
 ![Alt Text](https://github.com/lexie21/loandefaulter/blob/main/ML_curves.png)
 ![Alt Text](https://github.com/lexie21/loandefaulter/blob/main/DL_curve.png)
 
