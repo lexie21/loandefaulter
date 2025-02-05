@@ -46,8 +46,23 @@
 - **Employment status:** 12 types in total
 - **House type:** shared usage, private-only, regular, company-olny and unknown
 
+<h4>Overall Stats:</h4>
+
+|Year | Application Month | #Defaults | Sum Default Amount | Sum Loan Amount | Default Ratio | Average Default Amount| Max Amount|
+|------------|----------|--------|--------|--------|--------|--------|--------|
+|   2020     | 10 | 0.807  |0.807  |0.807  |0.807  |0.807  |0.807  | 
+
+
+This table provides valuable insights into the bank's performance. On average, the bank approves over 1,800 to 1,900 loans per month, with October 2020 seeing a significant spike, doubling the usual amount. The default ratio remains consistent at 20% of all loans, with the average amount per default case exceeding 1,000. Overall, defaults account for about 22-25% of the entire loan portfolio, and 2021 experienced much higher losses compared to the previous year.
+
+Several key observations stand out: While October 2020 and January 2021 show some of the highest absolute numbers of defaults, the average amount per default is relatively low, around 1,150. In contrast, November 2020 saw the highest average default amount, at 1,370, despite having the fewest default cases both in absolute numbers (276) and percentage (19%). Lastly, it appears the bank has a cap of 3,000 on its loan amounts, which should be further investigated, as this limit may not align with industry standards.
+
+<h4>Employment Status:</h4>
+
 ![Alt Text](https://github.com/lexie21/loandefaulter/blob/main/employment_status.png)
-![Alt Text](https://github.com/lexie21/loandefaulter/blob/main/masterisk.png)
+
+<h4>House Type:</h4>
+
 ![Alt Text](https://github.com/lexie21/loandefaulter/blob/main/house_type.png)
 
 
