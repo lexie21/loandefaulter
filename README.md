@@ -71,10 +71,6 @@ Several key observations stand out: While October 2020 and January 2021 show som
 ![Alt Text](https://github.com/lexie21/loandefaulter/blob/main/house_type.png)
 
 
-<h3>Summary of Insights</h3>
-
-<h3>Recommendations & Next Steps</h3>
-
 ## Modeling
 
 | Model | AUC | AP |
