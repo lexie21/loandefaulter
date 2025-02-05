@@ -40,6 +40,7 @@
 ## Exploratory Data Analysis
 
 <h3>Metrics and Dimensions</h3>
+
 - **Average default amount:** average loss incurred from each default
 - ** Default ratio:** proportion of default cases out of all loans
 - **Employment status:** 12 types in total
